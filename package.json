@@ -1,0 +1,13 @@
+{
+  "name": "compy",
+  "version": "1.0.0",
+  "description": "React Native Component Vault",
+  "main": "index.js",
+  "repository": "https://github.com/mraffiramdhani/compy.git",
+  "author": "mraffiramdhani <raffi.programming@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
