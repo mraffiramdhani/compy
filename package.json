@@ -9,5 +9,8 @@
   "private": false,
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "scripts": {
+    "serve": "nodemon index.js"
   }
 }
