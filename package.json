@@ -1,16 +1,14 @@
 {
   "name": "compy",
-  "version": "1.0.0",
-  "description": "React Native Component Vault",
-  "main": "index.js",
-  "repository": "https://github.com/mraffiramdhani/compy.git",
-  "author": "mraffiramdhani <raffi.programming@gmail.com>",
-  "license": "MIT",
-  "private": false,
-  "dependencies": {
-    "express": "^4.17.1"
-  },
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "serve": "nodemon index.js"
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1"
   }
 }
